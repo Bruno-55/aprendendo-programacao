@@ -1,3 +1,3 @@
-### This is my library for learning lua
+### This is my library for learning to code
 
 
